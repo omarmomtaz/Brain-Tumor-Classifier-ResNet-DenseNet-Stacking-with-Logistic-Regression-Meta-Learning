@@ -1,1 +1,1 @@
-# Brain-Tumor-Classifier-ResNet-DenseNet-Stacking-with-Logistic-Regression-Meta-Learning
+# Brain Tumor Classifier (NeuroStack): ResNet-DenseNet Stacking with Logistic Regression Meta Learning
