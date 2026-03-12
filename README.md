@@ -349,8 +349,17 @@ Classes are perfectly balanced. No data leakage was possible across folds due to
 
 Building at the intersection of **generative AI, computer vision, and embodied intelligence**. NeuroStack is one project in a broader mission to bring rigorous, production-grade machine learning to high-stakes domains.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&labelColor=0a0a0a)]((https://www.linkedin.com/in/omar-momtaz-/))
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-gold?style=for-the-badge&labelColor=0a0a0a)](https://omar-momtaz.dev)
+<div align="center">
+<a href="[https://www.upwork.com](https://www.upwork.com/freelancers/~01044b5d38a3457dc1?mp_source=share)">
+  <img src="https://img.shields.io/badge/Hire%20on-Upwork-D4AF37?style=for-the-badge&labelColor=8B0000"/>
+</a>
+<a href="[https://www.linkedin.com](https://www.linkedin.com/in/omar-momtaz-/)">
+  <img src="https://img.shields.io/badge/Connect-LinkedIn-00E5FF?style=for-the-badge&labelColor=111111"/>
+</a>
+<a href="[https://twitter.com](https://x.com/omarmomtaz_main)">
+  <img src="https://img.shields.io/badge/Follow-X-D4AF37?style=for-the-badge&labelColor=111111"/>
+</a>
+</div>
 
 ---
 
